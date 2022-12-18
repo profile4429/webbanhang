@@ -23,31 +23,31 @@ if(!empty($_POST)){
 		         <div class="row">
 		         	<div class="col-md-6">
 		         		<div class="form-group">
-				  <input required="true" type="text" class="form-control" id="usr" name="firstname" placeholder="Nhập Họ">
+				  <input required="true" type="text" class="form-control" id="usr" name="firstname" placeholder="Nhap ho">
 				</div>
 		         	</div>
 		         	<div class="col-md-6">
 		         		<div class="form-group">
-				  <input required="true" type="text" class="form-control" id="usr" name="lastname" placeholder="Nhập Tên">
+				  <input required="true" type="text" class="form-control" id="usr" name="lastname" placeholder="Nhap ten">
 				</div>
 		         	</div>
 		         	
 		         </div>
 				<div class="form-group">
-				  <input required="true" type="email" class="form-control" id="email" name="email" placeholder="Nhập Email">
+				  <input required="true" type="email" class="form-control" id="email" name="email" placeholder="nhap email">
 				</div>
 				<div class="form-group">
-				  <input required="true" type="tel" class="form-control" id="phone" name="phone_number" placeholder="Nhập Số Điện Thoại">
+				  <input required="true" type="tel" class="form-control" id="phone" name="phone_number" placeholder="Phone">
 				</div>
 				<div class="form-group">
-				  <input required="true"  type="text" class="form-control" id="subject_name" name="subject_name" placeholder="Chủ Đề">
+				  <input required="true"  type="text" class="form-control" id="subject_name" name="subject_name" placeholder="chu de">
 				</div>
 				<div class="form-group">
-				  <label for="address">Ghi chú:</label>
+				  <label for="address">Ghi Chu:</label>
 				  <textarea class="form-control" rows="3" name="note"></textarea>
 				</div>
 
-	<a href="checkout.php"><button class="btn btn-warning">Gửi phản hồi</button></a>
+	<a href="checkout.php"><button class="btn btn-warning">Gui phan hoi</button></a>
 	 
 		
 	</div>

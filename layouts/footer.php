@@ -2,30 +2,33 @@
         <div class="container">
             <div class="row">
                 <div class="col-3 col-md-6">
-                    <h5 class="footer-head">Hỗ trợ khách hàng</h5>
+                    <h3 class="footer-head">Sản Phẩm</h3>
                     <ul class="menu">
-                        <li><a href="#">Chính sách khách hàng</a></li>
-                        <li><a href="#">Chính sách đổi trả</a></li>
-                        <li><a href="#">Chính sách bảo hành</a></li>
-                        <li><a href="#">Chính sách dành cho khách hàng thiết</a></li>
-                        <li><a href="#">Chính sách giao hàng</a></li>
-                        <li><a href="#">Chính sách bảo mật</a></li>
-                        <li><a href="#">Các câu hỏi thường gặp</a></li>
-
+                        <li><a href="#">Trung tâm trợ giúp</a></li>
+                        <li><a href="#">Liên hệ với chúng tôi</a></li>
+                        <li><a href="#">Trợ giúp về sản phẩm</a></li>
+                        <li><a href="#">Hỗ trợ khách hàng</a></li>
+                        <li><a href="#">Điều khoản về dịch vụ</a></li>
                     </ul>
                 </div>
                 <div class="col-3 col-md-6">
-                    <h5 class="footer-head">Về chúng tôi</h5>
+                    <h3 class="footer-head">Dịch Vụ</h3>
                     <ul class="menu">
-                        <li><a href="#">Giới thiệu</a></li>
-                        <li><a href="#">Hệ thống cửa hàng</a></li>
-                        <li><a href="#">Hợp tác kinh doanh</a></li>
+                        <li><a href="#">Trung tâm trợ giúp</a></li>
+                        <li><a href="#">Liên hệ với chúng tôi</a></li>
+                        <li><a href="#">Trợ giúp về sản phẩm</a></li>
+                        <li><a href="#">Hỗ trợ khách hàng</a></li>
+                        <li><a href="#">Điều khoản về dịch vụ</a></li>
                     </ul>
                 </div>
                 <div class="col-3 col-md-6">
-                    <h3 class="footer-head">Cơ hội nghề nghiệp</h3>
+                    <h3 class="footer-head">Hỗ Trợ</h3>
                     <ul class="menu">
-                        <li><a href="#">Tuyển dụng</a></li>
+                        <li><a href="#">Trung tâm trợ giúp</a></li>
+                        <li><a href="#">Liên hệ với chúng tôi</a></li>
+                        <li><a href="#">Trợ giúp về sản phẩm</a></li>
+                        <li><a href="#">Hỗ trợ khách hàng</a></li>
+                        <li><a href="#">Điều khoản về dịch vụ</a></li>
                     </ul>
                 </div>
                 <div class="col-3 col-md-6 col-sm-12">
