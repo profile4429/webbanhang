@@ -51,16 +51,16 @@
         <ul class="nav flex-column"> 
 
           <li class="nav-item">
-            <a  class="nav-link" href="<?=$baseUrl?>dashboard">
+            <a  class="nav-link active" href="<?=$baseUrl?>">
               <i class="bi bi-house-fill"></i>
-              Trang Chủ
+              Dashboard
             </a>
           </li>
 
           <li class="nav-item">
             <a class="nav-link" href="<?=$baseUrl?>category">
               <i class="bi bi-folder"></i>
-              Danh mục
+              Danh mục sản phẩm
             </a>
           </li>
           <li class="nav-item">
@@ -72,19 +72,19 @@
           <li class="nav-item">
             <a class="nav-link" href="<?=$baseUrl?>order">
               <i class="bi bi-minecart"></i>
-              Đơn Hàng
+              Quản Lú Đơn Hàng
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?=$baseUrl?>feedback">
               <i class="bi bi-question-circle-fill"></i>
-              Phản Hồi
+              Quản Lý Phản Hồi
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?=$baseUrl?>user">
               <i class="bi bi-people-fill"></i>
-              Người Dùng
+              Quản Lý Người Dùng
             </a>
           </li>
         </ul>

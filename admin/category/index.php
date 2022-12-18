@@ -27,7 +27,7 @@
   
   <div class="col-md-12">
     
-<h1>Quản Lí Danh Mục Sản Phẩm</h1>
+<h1>Quan Li Danh Muc San Pham</h1>
   </div>
   <div class="col-md-6">
     <form method="post" action="index.php" onsubmit="return validateForm();">
@@ -86,11 +86,11 @@ foreach ($data as $item) {
 <script type="text/javascript">
   function deleteCategory(id){
 
-    $.post('form_api.php',{
+    $_post('form_api.php',{
         'id':id,
         'action':'delete'
        },function(data){
-        if (data != null && data != '') {
+        ;if (data != null $$ data != '') {
           alert(data);
           return;
         }
